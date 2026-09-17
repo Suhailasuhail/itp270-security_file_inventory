@@ -1,0 +1,6 @@
+2026-08-25 08:14:02 LOGIN SUCCESS user=asmith source=10.10.4.21
+2026-08-25 08:15:47 LOGIN FAILURE user=jdoe source=10.10.4.87
+2026-08-25 08:15:53 LOGIN FAILURE user=jdoe source=10.10.4.87
+2026-08-25 08:16:01 LOGIN SUCCESS user=jdoe source=10.10.4.87
+2026-08-25 09:02:18 LOGIN SUCCESS user=mgarcia source=10.10.5.14
+2026-08-25 09:44:33 LOGIN FAILURE user=svc_backup source=10.10.8.9

@@ -1,0 +1,21 @@
+{
+  "generated": "2026-08-25T10:30:00",
+  "systems": [
+    {
+      "hostname": "WS-104",
+      "os": "Windows 11",
+      "patch_state": "outdated"
+    },
+    {
+      "hostname": "WS-112",
+      "os": "Windows 11",
+      "patch_state": "current"
+    },
+    {
+      "hostname": "WS-118",
+      "os": "Windows 10",
+      "patch_state": "outdated"
+    }
+  ],
+  "classification": "simulated training data"
+}

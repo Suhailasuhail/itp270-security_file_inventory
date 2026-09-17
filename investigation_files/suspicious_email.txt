@@ -1,0 +1,9 @@
+From: billing-update@example.invalid
+To: finance-team@example.invalid
+Subject: Urgent: Updated Payment Instructions
+
+Please review the attached payment instructions immediately.
+The sender requests that future invoices be routed to a new account.
+
+Training note: This is simulated course data. Do not treat any domains or addresses
+in this file as real investigation targets.
